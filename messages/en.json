@@ -30,15 +30,15 @@
     "description": "FORGE is a boutique digital production studio that brings together development, performance marketing and design thinking under one roof.",
     "team_formula": "Dev + Mkt + Design",
     "team_label": "Our team",
-    "member_1_name": "Alex Kovalenko",
-    "member_1_role": "Tech Lead",
-    "member_1_bio": "Full-stack engineer with 8+ years building products users love.",
-    "member_2_name": "Maria Bondar",
+    "member_1_name": "Igor",
+    "member_1_role": "Tech Lead / Dev",
+    "member_1_bio": "Next.js, markup, AI automation. Making complex things fast.",
+    "member_2_name": "Bogdan",
     "member_2_role": "Performance Marketing",
     "member_2_bio": "Growth strategist. Scales brands with paid social and data-driven funnels.",
-    "member_3_name": "Dima Sereda",
-    "member_3_role": "Brand & UI",
-    "member_3_bio": "Visual architect. Crafts identities that cut through the noise."
+    "member_3_name": "Eduard",
+    "member_3_role": "Performance Marketing",
+    "member_3_bio": "Targeting & analytics specialist. Builds funnels that convert at every stage."
   },
   "services": {
     "label": "Services",
