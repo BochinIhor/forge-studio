@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "cases": "Cases",
+    "contact": "Contact",
+    "cta": "Start a project"
+  },
+  "hero": {
+    "tag": "Digital Production Studio",
+    "headline": "We forge digital products",
+    "description": "We build high-performance digital products — from strategy to launch. Web, marketing, AI automation.",
+    "cta_primary": "Start a project",
+    "cta_secondary": "View cases",
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "projects_value": "24",
+    "projects_label": "Projects completed",
+    "clients_value": "18",
+    "clients_label": "Happy clients",
+    "years_value": "3",
+    "years_label": "Years in market",
+    "return_value": "98",
+    "return_label": "Return rate"
+  },
+  "about": {
+    "label": "About us",
+    "headline": "We don't just build — we forge.",
+    "description": "FORGE is a boutique digital production studio that brings together development, performance marketing and design thinking under one roof.",
+    "team_formula": "Dev + Mkt + Design",
+    "team_label": "Our team",
+    "member_1_name": "Alex Kovalenko",
+    "member_1_role": "Tech Lead",
+    "member_1_bio": "Full-stack engineer with 8+ years building products users love.",
+    "member_2_name": "Maria Bondar",
+    "member_2_role": "Performance Marketing",
+    "member_2_bio": "Growth strategist. Scales brands with paid social and data-driven funnels.",
+    "member_3_name": "Dima Sereda",
+    "member_3_role": "Brand & UI",
+    "member_3_bio": "Visual architect. Crafts identities that cut through the noise."
+  },
+  "services": {
+    "label": "Services",
+    "headline": "What we do",
+    "s1_number": "01",
+    "s1_name": "Web Development",
+    "s1_description": "High-performance websites and web apps built with modern tech.",
+    "s1_tags": "Next.js,React,TypeScript,Node.js",
+    "s2_number": "02",
+    "s2_name": "Performance Marketing",
+    "s2_description": "Paid ads, analytics, and funnel optimization that drives real growth.",
+    "s2_tags": "Google Ads,Meta Ads,Analytics,CRO",
+    "s3_number": "03",
+    "s3_name": "AI Automation",
+    "s3_description": "Intelligent workflows and AI-powered tools to scale operations.",
+    "s3_tags": "GPT,Automation,Zapier,n8n",
+    "s4_number": "04",
+    "s4_name": "Branding & UI",
+    "s4_description": "Visual identity and interface design that converts and inspires.",
+    "s4_tags": "Figma,Brand,UI/UX,Motion",
+    "s5_number": "05",
+    "s5_name": "SEO",
+    "s5_description": "Technical and content SEO strategies that grow organic traffic.",
+    "s5_tags": "Technical SEO,Content,Link Building",
+    "s6_number": "06",
+    "s6_name": "Support & Growth",
+    "s6_description": "Ongoing technical support, monitoring, and iterative improvement.",
+    "s6_tags": "Maintenance,Speed,Monitoring"
+  },
+  "cases": {
+    "label": "Cases",
+    "headline": "Selected work",
+    "view": "View",
+    "more": "More projects",
+    "placeholder_title": "Your project",
+    "placeholder_desc": "Let's build something great"
+  },
+  "contact": {
+    "label": "Contact",
+    "headline": "Let's forge something great",
+    "description": "Tell us about your project and we'll get back to you within 24 hours.",
+    "email_label": "Email",
+    "email_value": "hello@forge.studio",
+    "telegram_label": "Telegram",
+    "telegram_value": "@forge_studio",
+    "name_label": "Your name",
+    "name_placeholder": "Alex Kovalenko",
+    "contact_label": "Email or Telegram",
+    "contact_placeholder": "hello@company.com",
+    "message_label": "About your project",
+    "message_placeholder": "Describe your project, goals, timeline...",
+    "submit": "Send message"
+  },
+  "footer": {
+    "copyright": "© 2024 FORGE Studio",
+    "tagline": "Forging digital futures"
+  }
+}

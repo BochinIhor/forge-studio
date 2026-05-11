@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(head *)",
+      "PowerShell(cmd /c \"dir /s /b D:\\\\Project\\\\forge-studio\\\\app\")",
+      "PowerShell(New-Item *)",
+      "PowerShell(npm run *)"
+    ]
+  }
+}
